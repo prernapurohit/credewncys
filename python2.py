@@ -1,4 +1,5 @@
 a="prerna"
 b="purohit"
+c="hello"
 
-print(a+b)
+print(a+b+c)
