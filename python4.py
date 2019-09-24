@@ -1,5 +1,6 @@
 
 
+a=5
+b=6
 
-
-print("hii prerana")
+print(a+b)
